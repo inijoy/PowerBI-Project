@@ -1,4 +1,4 @@
-# PowerBI-Project
+# PowerBI-ProjectS
 
 ### Project Thought Flow for PowerBI Visualization on Sales Analysis
 
