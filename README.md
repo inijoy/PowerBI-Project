@@ -74,7 +74,7 @@
      - 2023: 98.06%
      - 2024: 133.97%
     
-     - ![](https://github.com/inijoy/PowerBI-Project/blob/main/MY%20ANALYSIS%20SALES%20REPORT%26HR%20REPORT.pbix)
+     - ![PowerBI Vizualization on Sales and HR Analysis](https://github.com/inijoy/PowerBI-Project/blob/main/MY%20ANALYSIS%20SALES%20REPORT%26HR%20REPORT.pbix)
 
 #### 6. **Insights and Recommendations:**
 
